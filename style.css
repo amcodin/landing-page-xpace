@@ -1,0 +1,39 @@
+body {
+  padding-top: 56px;
+  font-family: 'Lato', sans-serif;
+}
+
+.logo {
+	width: 8rem;
+}
+
+.bg-primary {
+	background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 200px 0 200px 0;
+}
+
+.buffer {
+	height:10rem;
+}
+
+.btn {
+	padding: 1rem 2rem;
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+	background-color: #162955;
+	border-color:#162955;
+
+}
+
+.btn:hover {
+	background-color:#4F628E;
+	border-color:#4F628E;
+	color: black;
+	border-width:4px;
+}
+
